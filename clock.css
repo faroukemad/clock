@@ -1,0 +1,22 @@
+body{
+
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+a{
+
+   color: #17D4FE;
+    font-size: 60px;
+    
+    
+
+}
+#cont{
+
+    text-align: center;
+    letter-spacing: 10px;
+}
